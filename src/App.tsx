@@ -4,7 +4,7 @@ export default class App extends React.Component {
   render() {
     return (
       <React.Fragment>
-        Webpack 4 boilerplate for React with TypeScripts!
+        Webpack 4 boilerplate for React with TypeScript!
       </React.Fragment>
     );
   }
